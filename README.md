@@ -1,6 +1,6 @@
 # helloAsm
 
-"Hello, world!" in NASM/YASM.
+Some experiments that i made in NASM/YASM.
 
 # Quick Start
 
